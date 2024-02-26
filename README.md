@@ -1,3 +1,18 @@
+1.1	PROJECT OVERVIEW
+
+
+In today's interconnected and data-driven world, the need for secure data transfer and confidential communication is more critical than ever before. As the digital landscape evolves, so do the challenges related to protecting sensitive information from unauthorized access, interception, or tampering. This project titled "StegHide" is an intuitive Web app which aims to create a versatile web application that seamlessly combines the power of image steganography and a secure chat module, providing users with a comprehensive platform to exchange messages and transfer data covertly while maintaining the utmost data integrity and confidentiality.
+
+With the proliferation of online communication and data sharing, there is a growing demand for tools and platforms that prioritize privacy and security. The core objective of this project is to meet this demand by developing a web application that empowers users to interact securely and discreetly, utilizing cutting-edge technologies in the realm of steganography and encryption.
+
+By integrating image steganography techniques, the application allows users to hide data within innocuous images, rendering it virtually invisible to anyone not privy to the decryption keys. Simultaneously, a robust chat module facilitates real-time communication between users, ensuring that sensitive messages are shielded from prying eyes through end-to-end encryption.
+                
+ This web application that combines image steganography with a secure chat module, user-friendly interface for secure communication and data transfer and strong data protection mechanisms ensuring.           
+confidentiality and integrity.
+
+  Developed with HTML, CSS, REACT JS for the Front-End, and backed by NODE JS and FIREBASE for Database for the Back-End, it ensures reliable and secure communication between the users.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
