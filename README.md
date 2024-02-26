@@ -1,6 +1,5 @@
-1.1	PROJECT OVERVIEW
-
-
+## Steghide
+### PROJECT OVERVIEW
 In today's interconnected and data-driven world, the need for secure data transfer and confidential communication is more critical than ever before. As the digital landscape evolves, so do the challenges related to protecting sensitive information from unauthorized access, interception, or tampering. This project titled "StegHide" is an intuitive Web app which aims to create a versatile web application that seamlessly combines the power of image steganography and a secure chat module, providing users with a comprehensive platform to exchange messages and transfer data covertly while maintaining the utmost data integrity and confidentiality.
 
 With the proliferation of online communication and data sharing, there is a growing demand for tools and platforms that prioritize privacy and security. The core objective of this project is to meet this demand by developing a web application that empowers users to interact securely and discreetly, utilizing cutting-edge technologies in the realm of steganography and encryption.
