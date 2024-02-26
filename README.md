@@ -69,8 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ### Screenshots
-###Signup and Login page
+Signup and Login page
 
 ![image](https://github.com/Vasanth-16/Steghide/assets/105155178/aa52701d-e669-4a95-b2b4-38b3e06da728)
 ![image](https://github.com/Vasanth-16/Steghide/assets/105155178/e923f60e-af05-4bf4-ada5-599dd645ae5c)
+
+Chat module
+
+![image](https://github.com/Vasanth-16/Steghide/assets/105155178/83b31464-73d3-4a79-8265-0bb5443c486e)
+
+Encoder:
+
+![image](https://github.com/Vasanth-16/Steghide/assets/105155178/46c2a6b8-0a18-4739-9766-b2b71fab2762)
+
+Decoder:
+
+![image](https://github.com/Vasanth-16/Steghide/assets/105155178/028619c7-10c2-4649-9fa4-f6cd2483ab9c)
+![image](https://github.com/Vasanth-16/Steghide/assets/105155178/7367146c-1314-4e77-80b3-367c67213654)
 
